@@ -1,0 +1,7 @@
+retrieve_by: count
+date: 2024-09-01
+count: 11
+file_feeds: input/rss.txt
+file_urls: input/urls.txt
+file_output: output/data.txt
+file_output_delimiter: "|"
